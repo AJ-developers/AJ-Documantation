@@ -1,5 +1,7 @@
-# AJ-Documantation
+# AJ-Documentation
 
-Documantation of all AJ Developers creation.
+Documentation of all AJ Developers creation.
 
-### 🔗 Link: https://doc.aj-dev.fr/ 
+### 🔗 Link: https://doc.aj-dev.fr/
+
+> Built with Docusaurus
